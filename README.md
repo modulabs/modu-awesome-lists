@@ -30,7 +30,7 @@
 
 
 ## Generative Models
-* blar blar
+* [GAN Tensorflow 구현 모음 (이일구 퍼실, GAN찮아 풀잎) (https://github.com/ilguyi/gans.tensorflow.slim)](https://github.com/ilguyi/gans.tensorflow.slim)
 
 
 
