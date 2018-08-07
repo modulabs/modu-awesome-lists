@@ -40,8 +40,14 @@
 
 
 ## Deep Learning
-* blar blar
+* 강재욱 [Everybody Tensorflow 2018](https://github.com/jwkanggist/EveryBodyTensorFlow)
 
+
+## Mobile Machine Learning 
+* [MoTLabs] [dontbeturtle proj](https://github.com/motlabs/dont-be-turtle)
+* [MoTLabs] [MoTLab blogs](https://motlabs.github.io/)
+* [MoTLabs] [iOS-Project-with-ML-Models repo](https://github.com/motlabs/iOS-Proejcts-with-ML-Models)
+* [MoTLabs] [MoT Tensorflow code pattern study repo](https://github.com/motlabs/mot-tf-codepattern-study)
 
 
 ## Computer Vision
