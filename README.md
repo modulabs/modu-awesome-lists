@@ -14,11 +14,12 @@
 * [R로 만드는 추천 시스템 (김동섭, 윤병도, 김현돈, 박정현 옮김)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161750309&orderClick=LEB&Kc=)
 * [Matlab Deep Learning (김성필, 강화학습 랩장)](https://www.amazon.com/MATLAB-Deep-Learning-Artificial-Intelligence/dp/1484228448/ref=sr_1_3?ie=UTF8&qid=1533623753&sr=8-3&keywords=Matlab+deep+learning)
 
-
+<!--
 ## 모두연 연구원 개인 블로그 (가나다 순)
 * [박진우 연구원 (풀잎스쿨 Convex Optimization 퍼실) (https://curt-park.github.io)](https://curt-park.github.io)
 * [장승환 연구원 (RLPG 랩장) (https://cveai.github.io)](https://cveai.github.io)
 * [정원석 연구원 (CTRL 랩장) (https://wonseokjung.github.io)](https://wonseokjung.github.io)
+-->
 
 
 ## Deep Learning
@@ -35,7 +36,7 @@
 * blar blar
 
 
-## Reinforecement Learning
+## Reinforcement Learning
 * [All about Reinforcement learning (정원석 연구원, CTRL 랩장) (https://wonseokjung.github.io)](https://wonseokjung.github.io)
 
 
