@@ -2,6 +2,7 @@
 
 ## 모두연 연구실 블로그
 * [모두의연구소 바이오메디컬 랩 기술 블로그 (https://modulabs-biomedical.github.io)](https://modulabs-biomedical.github.io)
+* [모두의연구소 MoTLabs 블로그] [MoTLab blogs](https://motlabs.github.io/)
 
 
 ## 모두연 연구결과물들
@@ -30,17 +31,18 @@
 
 
 
-
-<!--
-## 모두연 연구원 개인 블로그 (가나다 순)
-* [박진우 연구원 (풀잎스쿨 Convex Optimization 퍼실) (https://curt-park.github.io)](https://curt-park.github.io)
-* [장승환 연구원 (RLPG 랩장) (https://cveai.github.io)](https://cveai.github.io)
-* [정원석 연구원 (CTRL 랩장) (https://wonseokjung.github.io)](https://wonseokjung.github.io)
--->
+## Machine Learning
+* 홍기호 연구원 (DeepLAB 논문반) [PRML 정리](http://norman3.github.io/prml/)
 
 
 ## Deep Learning
-* 강재욱 [Everybody Tensorflow 2018](https://github.com/jwkanggist/EveryBodyTensorFlow)
+* 김승일 소장님 [쫄지말자 딥러닝](https://www.slideshare.net/modulabs/2-cnn-rnn)
+* 강재욱 (MoT 랩장) [Everybody Tensorflow 2018](https://github.com/jwkanggist/EveryBodyTensorFlow)
+
+
+## TensorFlow
+* 김보섭 연구원 (GTA, MoT) [풀잎스쿨 Flow me to the moon](https://github.com/aisolab/CS20)
+
 
 
 ## Mobile Machine Learning 
@@ -60,13 +62,26 @@
 
 
 ## Reinforcement Learning
+
+### Blogs
 * [All about Reinforcement learning (정원석 연구원, CTRL 랩장) (https://wonseokjung.github.io)](https://wonseokjung.github.io)
 
+### Github
+* [All about Reinforcement learning (정원석 연구원, CTRL 랩장)](https://github.com/wonseokjung/ReinforcementLearning_byWonseok)
 
+### Slideshare
+* [Running A.I.](https://www.slideshare.net/wonseokjung2/deeplearning-conf)
 
 ## Generative Models
 * [GAN Tensorflow 구현 모음 (이일구 퍼실, GAN찮아 풀잎) (https://github.com/ilguyi/gans.tensorflow.slim)](https://github.com/ilguyi/gans.tensorflow.slim)
 
 
 
+## 모두연 연구원 개인 블로그 (가나다 순)
+* 김보섭 연구원 (GTA, MoT) [https://aisolab.github.io](https://aisolab.github.io)
+* 박진우 연구원 (풀잎스쿨 Convex Optimization 퍼실) [https://curt-park.github.io](https://curt-park.github.io)
+* 장승환 연구원 (RLPG 랩장) [https://cveai.github.io](https://cveai.github.io)
+* 정원석 연구원 (CTRL 랩장) [https://wonseokjung.github.io](https://wonseokjung.github.io)
 
+## 모두연 연구원 개인 Github (가나다 순)
+* 김보섭 연구원 (GTA, MoT) [https://github.com/aisolab](https://github.com/aisolab)
