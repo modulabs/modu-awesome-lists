@@ -11,13 +11,13 @@
 
 #### 저서
 * [파이썬과 케라스로 배우는 강화학습](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158390723&orderClick=LEA&Kc=)
-  * *이웅원*, 양혁렬, 김건우, *이영무*, *이의령*
+  * **이웅원**, 양혁렬, 김건우, **이영무**, **이의령**
 * [딥러닝 첫걸음](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968487323&orderClick=LAH&Kc=)
   * 김성필: 강화학습 랩장
 * [Matlab Deep Learning](https://www.amazon.com/MATLAB-Deep-Learning-Artificial-Intelligence/dp/1484228448/ref=sr_1_3?ie=UTF8&qid=1533623753&sr=8-3&keywords=Matlab+deep+learning)
   * 김성필: 강화학습 랩장
 * [쉽고 빠르게 배우는 드론 만들기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788955027143&orderClick=LAH&Kc=)
-  * 권희춘, *김승일* 소장님
+  * 권희춘, **김승일** 소장님
 
 #### 번역서
 * [이더리움과 솔리디티 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158390907&orderClick=LEB&Kc=)
@@ -46,8 +46,8 @@
 
 ## TensorFlow
 ### github
-* [풀잎스쿨 Flow me to the moon](https://github.com/aisolab/CS20) [김보섭 (GTA, MoT)]
-* [풀잎스쿨 Flow me to the moon](https://github.com/modulabs/modu-tensorflow) [모두연 풀잎 결과물]
+* [풀잎스쿨 Flow me to the moon 코드 정리](https://github.com/aisolab/CS20) [김보섭 (GTA, MoT)]
+* [풀잎스쿨 Flow me to the moon 코드 정리](https://github.com/modulabs/modu-tensorflow) [모두연 풀잎 결과물]
 
 
 
@@ -64,18 +64,18 @@
 
 
 ## Natural Language Processes
-* [[tf nmt tutorial]](https://github.com/HiJiGOO/tf_nmt_tutorial) [김기철 (풀잎 연구원)]
+* [tf nmt tutorial](hthps://github.com/HiJiGOO/tf_nmt_tutorial) [김기철 (풀잎 연구원)]
 
 
 ## Reinforcement Learning
 
 ### Blogs
-* [All about Reinforcement learning] [https://wonseokjung.github.io](https://wonseokjung.github.io) [정원석 (CTRL 랩장)]
-* [Sutton 책 정리] [https://github.com/Curt-Park/reinforcement_learning_an_introduction](https://github.com/Curt-Park/reinforcement_learning_an_introduction) [박진우 (Convex optimization 퍼실)]
-* [Sutton 책 정리] [https://github.com/rlgosu/reinforcement2e/graphs/contributors](https://github.com/rlgosu/reinforcement2e/graphs/contributors)
+* [All about Reinforcement learning](https://wonseokjung.github.io) [정원석 (CTRL 랩장)]
+* [Sutton 책 정리](https://github.com/Curt-Park/reinforcement_learning_an_introduction) [박진우 (Convex optimization 퍼실)]
+* [Sutton 책 정리](https://github.com/rlgosu/reinforcement2e/graphs/contributors)
 
 ### Github
-* [All about Reinforcement learning] [https://github.com/wonseokjung/ReinforcementLearning_byWonseok](https://github.com/wonseokjung/ReinforcementLearning_byWonseok) [정원석 (CTRL 랩장)]
+* [All about Reinforcement learning](https://github.com/wonseokjung/ReinforcementLearning_byWonseok) [정원석 (CTRL 랩장)]
 * [Unity 를 사용하여 강화학습 환경 만들기](https://github.com/wonseokjung/Handmade_RL) [정원석 (CTRL 랩장)]
 
 
@@ -85,8 +85,8 @@
 * [강화학습 기초, 9th KIAS CAC Summer School](https://www.slideshare.net/CurtPark1/dqn-reinforcement-learning-from-basics-to-dqn) [박진우 (Convex optimization 퍼실)]
 
 ## Generative Models
-* [GAN Tensorflow 구현 모음] [https://github.com/ilguyi/gans.tensorflow.slim](https://github.com/ilguyi/gans.tensorflow.slim) [이일구 (모두연 research scientist)]
-* [GAN Tensorflow 구현 모음] [https://github.com/ho4040/tf-gans](https://github.com/ho4040/tf-gans) [최영 (풀잎 연구원)]
+* [GAN Tensorflow 구현 모음](https://github.com/ilguyi/gans.tensorflow.slim) [이일구 (모두연 research scientist)]
+* [GAN Tensorflow 구현 모음](https://github.com/ho4040/tf-gans) [최영 (풀잎 연구원)]
 
 
 
