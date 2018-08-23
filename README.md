@@ -71,6 +71,8 @@
 
 ### Blogs
 * [All about Reinforcement learning](https://wonseokjung.github.io) [정원석 (CTRL 랩장)]
+* [End-To-End AI](https://www.endtoend.ai) [이승재 (CTRL, Adv. RL 풀잎)]
+* [아타리 환경 State of the Art 모음](https://www.endtoend.ai/envs/gym/atari) [이승재 (CTRL, Adv. RL 풀잎)]
 * [Sutton 책 정리](https://github.com/Curt-Park/reinforcement_learning_an_introduction) [박진우 (Convex optimization 퍼실)]
 * [Sutton 책 정리](https://github.com/rlgosu/reinforcement2e/graphs/contributors)
 
