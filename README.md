@@ -1,7 +1,7 @@
 # modu-awesome-lists
 
 ## 모두연 연구실 블로그
-* [모두의연구소 바이오메디컬 랩 기술 블로그 (https://modulabs-biomedical.github.io)](https://modulabs-biomedical.github.io)
+* [모두의연구소 바이오메디컬 랩 기술 블로그] [https://modulabs-biomedical.github.io](https://modulabs-biomedical.github.io)
 * [모두의연구소 MoTLabs 블로그] [MoTLab blogs](https://motlabs.github.io/)
 
 
@@ -32,16 +32,22 @@
 
 
 ## Machine Learning
-* 홍기호 연구원 (DeepLAB 논문반) [PRML 정리](http://norman3.github.io/prml/)
+### blogs
+* [PRML 정리](http://norman3.github.io/prml/) [홍기호 (DeepLAB 논문반)]
 
 
 ## Deep Learning
-* 김승일 소장님 [쫄지말자 딥러닝](https://www.slideshare.net/modulabs/2-cnn-rnn)
-* 강재욱 (MoT 랩장) [Everybody Tensorflow 2018](https://github.com/jwkanggist/EveryBodyTensorFlow)
+### slideshare
+* [쫄지말자 딥러닝](https://www.slideshare.net/modulabs/2-cnn-rnn) [김승일 소장님]
+
+### github
+* [Everybody Tensorflow 2018](https://github.com/jwkanggist/EveryBodyTensorFlow) [강재욱 (MoT 랩장)]
 
 
 ## TensorFlow
-* 김보섭 연구원 (GTA, MoT) [풀잎스쿨 Flow me to the moon](https://github.com/aisolab/CS20)
+### github
+* [풀잎스쿨 Flow me to the moon](https://github.com/aisolab/CS20) [김보섭 (GTA, MoT)]
+* [풀잎스쿨 Flow me to the moon](https://github.com/modulabs/modu-tensorflow) [모두연 풀잎 결과물]
 
 
 
@@ -53,27 +59,34 @@
 
 
 ## Computer Vision
-* blar blar
+* [cs231n assignments](https://github.com/Curt-Park/cs231n_assignments) [박진우 (Convex optimization 퍼실)]
 
 
 
 ## Natural Language Processes
-* blar blar
+* [[tf nmt tutorial]](https://github.com/HiJiGOO/tf_nmt_tutorial) [김기철 (풀잎 연구원)]
 
 
 ## Reinforcement Learning
 
 ### Blogs
-* [All about Reinforcement learning (정원석 연구원, CTRL 랩장) (https://wonseokjung.github.io)](https://wonseokjung.github.io)
+* [All about Reinforcement learning] [https://wonseokjung.github.io](https://wonseokjung.github.io) [정원석 (CTRL 랩장)]
+* [Sutton 책 정리] [https://github.com/Curt-Park/reinforcement_learning_an_introduction](https://github.com/Curt-Park/reinforcement_learning_an_introduction) [박진우 (Convex optimization 퍼실)]
+* [Sutton 책 정리] [https://github.com/rlgosu/reinforcement2e/graphs/contributors](https://github.com/rlgosu/reinforcement2e/graphs/contributors)
 
 ### Github
-* [All about Reinforcement learning (정원석 연구원, CTRL 랩장)](https://github.com/wonseokjung/ReinforcementLearning_byWonseok)
+* [All about Reinforcement learning] [https://github.com/wonseokjung/ReinforcementLearning_byWonseok](https://github.com/wonseokjung/ReinforcementLearning_byWonseok) [정원석 (CTRL 랩장)]
+* [Unity 를 사용하여 강화학습 환경 만들기](https://github.com/wonseokjung/Handmade_RL) [정원석 (CTRL 랩장)]
+
 
 ### Slideshare
-* [Running A.I.](https://www.slideshare.net/wonseokjung2/deeplearning-conf)
+* [Running A.I.](https://www.slideshare.net/wonseokjung2/deeplearning-conf) [정원석 (CTRL 랩장)]
+* [rise of unity](https://www.slideshare.net/wonseokjung2/rise-of-unityml722) [정원석 (CTRL 랩장)]
+* [강화학습 기초, 9th KIAS CAC Summer School](https://www.slideshare.net/CurtPark1/dqn-reinforcement-learning-from-basics-to-dqn) [박진우 (Convex optimization 퍼실)]
 
 ## Generative Models
-* [GAN Tensorflow 구현 모음 (이일구 퍼실, GAN찮아 풀잎) (https://github.com/ilguyi/gans.tensorflow.slim)](https://github.com/ilguyi/gans.tensorflow.slim)
+* [GAN Tensorflow 구현 모음] [https://github.com/ilguyi/gans.tensorflow.slim](https://github.com/ilguyi/gans.tensorflow.slim) [이일구 (모두연 research scientist)]
+* [GAN Tensorflow 구현 모음] [https://github.com/ho4040/tf-gans](https://github.com/ho4040/tf-gans) [최영 (풀잎 연구원)]
 
 
 
