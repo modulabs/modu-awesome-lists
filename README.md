@@ -75,6 +75,7 @@
 * [아타리 환경 State of the Art 모음](https://www.endtoend.ai/envs/gym/atari) [이승재 (CTRL, Adv. RL 풀잎)]
 * [Sutton 책 정리](https://github.com/Curt-Park/reinforcement_learning_an_introduction) [박진우 (Convex optimization 퍼실)]
 * [Sutton 책 정리](https://github.com/rlgosu/reinforcement2e/graphs/contributors)
+* [Super Mario 환경 만들기](https://medium.com/@wonseokjung_95449/강화학습으로-똑똑한-슈퍼마리오-만들기-87c423f46b05) [정원석 (CTRL 랩장)]
 
 ### Github
 * [All about Reinforcement learning](https://github.com/wonseokjung/ReinforcementLearning_byWonseok) [정원석 (CTRL 랩장)]
