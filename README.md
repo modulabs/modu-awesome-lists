@@ -46,8 +46,8 @@
 
 ## TensorFlow
 ### github
-* [풀잎스쿨 Flow me to the moon 코드 정리](https://github.com/aisolab/CS20) [김보섭 (GTA, MoT)]
-* [풀잎스쿨 Flow me to the moon 코드 정리](https://github.com/modulabs/modu-tensorflow) [모두연 풀잎 결과물]
+* [풀잎스쿨 3기 Flow me to the moon 코드 정리](https://github.com/aisolab/CS20) [김보섭 (GTA, MoT)]
+* [풀잎스쿨 4기 Flow me to the moon 코드 정리](https://github.com/modulabs/modu-tensorflow) [모두연 풀잎4기 결과물]
 
 
 
@@ -64,7 +64,7 @@
 
 
 ## Natural Language Processes
-* [tf nmt tutorial](hthps://github.com/HiJiGOO/tf_nmt_tutorial) [김기철 (풀잎 연구원)]
+* [tf nmt tutorial](https://github.com/HiJiGOO/tf_nmt_tutorial) [김기철 (풀잎 연구원)]
 
 
 ## Reinforcement Learning
