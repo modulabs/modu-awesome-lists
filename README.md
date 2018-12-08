@@ -18,6 +18,8 @@
   * 김성필: 강화학습 랩장
 * [쉽고 빠르게 배우는 드론 만들기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788955027143&orderClick=LAH&Kc=)
   * 권희춘, **김승일** 소장님
+* [모두를 위한 컨벡스 최적화 (Convex Optimization For All)](https://wikidocs.net/book/1896)
+  * 김기범, 김정훈, 노원종, 박진우, 윤성진, 이규복, 한영일, 황혜진
 
 #### 번역서
 * [이더리움과 솔리디티 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158390907&orderClick=LEB&Kc=)
@@ -25,9 +27,9 @@
 * [R로 만드는 추천 시스템 (김동섭, 윤병도, 김현돈, 박정현 옮김)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161750309&orderClick=LEB&Kc=)
   * 김동섭, 윤병도, 김현돈, 박정현
 
+<!--
 #### 작성중
-* [모두를 위한 컨벡스 최적화 (Convex Optimization For All)](https://wikidocs.net/book/1896)
-  * 김기범, 김정훈, 노원종, 박진우, 윤성진, 이규복, 한영일, 황혜진
+-->
 
 
 
